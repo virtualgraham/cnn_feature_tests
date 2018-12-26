@@ -1,1 +1,5 @@
 household_images/**
+.ipynb_checkpoints/**
+pegbis/.ipynb_checkpoints/**
+*.csv
+*.pyc
